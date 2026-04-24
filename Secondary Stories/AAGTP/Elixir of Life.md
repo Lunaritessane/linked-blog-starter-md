@@ -1,0 +1,3 @@
+---
+terminology_property:
+---
